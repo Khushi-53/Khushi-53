@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khushi-53
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning and travelling
+- 🌱 I’m currently learning C++ and python
+- 💞️ I’m looking to collaborate on some projects later
 - 📫 How to reach me _
 
 <!---
